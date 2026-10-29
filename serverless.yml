@@ -6,7 +6,7 @@ provider:
   runtime: python3.12
   timeout: 30  
   iam:
-    role: arn:aws:iam::471442718504:role/LabRole
+    role: arn:aws:iam::217120421883:role/LabRole
 
 functions:
   listar:
